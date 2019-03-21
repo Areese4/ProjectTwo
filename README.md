@@ -84,6 +84,8 @@ Which line number of Pascal's Triangle? 11
 Line 11 of Pascal's Triangle is: 1 10 45 120 210 252 210 120 45 10 1
 ```
 
+As you can see I am running the program, and then when I am given the opportunity to pick which option I want to use I chose the second one. Once the program recognizes I have chosen that option it proceeds with the next step in the code which asks what line number of the triangle I would like to see. So, I told it to show me the eleventh line which it did.
+
 **Side Notes**
 
 Now the code is downloaded and opened in NetBeans if you want to you can open and look at the executable code.  If you choose to do so double click ‘Source Packages’, then double click ‘Project2’ inside that ‘Source Packages’ folder you will see the three Java files that contain the code. If you highlight all three of them and right click you will see the ‘Open’ option, click that. Now that you have the code open, which is three separate Java files, you can see what each one does.
