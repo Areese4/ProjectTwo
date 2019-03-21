@@ -57,8 +57,9 @@ After the installation process you are now able to run the program. The easiest 
 >1.	File
 >2.	Open Project
 >3.	Find ‘ProjectTwo’ where ever you extracted the files at, then select the one file with Java logo next to it. Picture is shown below for your help
-<img width="1280" alt="Opening" src="https://user-images.githubusercontent.com/37488517/54752354-c77f2480-4bab-11e9-8a9f-bfa32b1232a4.png">
 >4.	Once the project has been chosen, click “Open Project” and you should have the left most tab open with Project2 now
+<img width="1280" alt="Opening" src="https://user-images.githubusercontent.com/37488517/54752354-c77f2480-4bab-11e9-8a9f-bfa32b1232a4.png">
+
 
 Now that you have done those four steps to get the code into NetBeans, it is good practice before running the code to hit the ‘Clean and Build Project’ button. This is located on the top bar of NetBeans; the button looks like a hammer and a broom. That should only take a couple of moments, you can check the progress bar at the bottom of the page in NetBeans to know when it is done.
 
