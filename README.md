@@ -94,4 +94,4 @@ You may have noticed that there is more than one file that could be selected in 
 
 StepOne.java is going to deal with the palindrome test setting up and making sure that each letter is the same backwards and forwards.
 
-StepTwo.java is going to deal with Pascal’s Triangle given line. Which is taking the number, our input, and doing the math to figure out what line that is.
+StepTwo.java is going to deal with Pascal’s Triangle given line. Which is taking the number, our input, and doing the math to figure out what numbers are in the line that is given.
