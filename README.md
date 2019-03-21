@@ -17,7 +17,7 @@ This project was made in NetBeans for a 100-point grade in one of Jacksonville S
 
 https://netbeans.org/downloads/8.2/
 
-## What the Program Does
+## What Does the Program Do?
 
 Once the program is run, the system gives the user two options. This will look something like this.
 
