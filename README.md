@@ -27,8 +27,8 @@ After the installation process you are now able to run the program. The easiest 
 
 1.	File
 2.	Open Project
-3.	Find ‘ProjectTwo’ where ever you extracted the files at, then select the one file with Java logo next to it.
-a.	Picture is shown below for your help
+3.	Find ‘ProjectTwo’ where ever you extracted the files at, then select the one file with Java logo next to it. A Picture is shown below for your help
+
 
 4.	Once the project has been chosen, click “Open Project”
 5.	
